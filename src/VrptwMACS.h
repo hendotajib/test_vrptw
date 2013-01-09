@@ -39,7 +39,7 @@
 #include "Vrptw.h"
 #include "SolutionLogger.h"
 #include "utils.h"
-#include "pthread/include/pthread.h"
+#include "pthread.h"
 
 
 ///// classes /////

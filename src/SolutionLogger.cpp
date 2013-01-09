@@ -36,6 +36,8 @@
 #if !defined(WIN32) && !defined(WIN64)
 	#include <sys/time.h>
 #endif
+#include <string.h>
+#include <stdlib.h>
 
 
 ///// classes /////
